@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 # 📊 LWL Community Member Data Pipeline — Freelance Project
 
 > **NDA Notice:** All data shown in this repository is fully synthetic/anonymized.  
