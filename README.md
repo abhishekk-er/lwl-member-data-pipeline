@@ -271,15 +271,5 @@ All sample files use fully synthetic, randomly generated records.
 
 ---
 
-## 👩‍💻 Author
-
-**[Your Name]**  
-Data Analyst · Python · Zoho CRM · Excel · Freelancer
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/YOUR_PROFILE)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/YOUR_USERNAME)
-
----
-
 *⭐ If this helped you, give it a star!*
 >>>>>>> f2dd10b (LWL data pipeline project)
