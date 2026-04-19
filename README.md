@@ -268,8 +268,3 @@ python zoho_pipeline/pipeline.py \
 This project was completed under a **Non-Disclosure Agreement (NDA)**.  
 No real client data is included in this repository.  
 All sample files use fully synthetic, randomly generated records.
-
----
-
-*⭐ If this helped you, give it a star!*
->>>>>>> f2dd10b (LWL data pipeline project)
